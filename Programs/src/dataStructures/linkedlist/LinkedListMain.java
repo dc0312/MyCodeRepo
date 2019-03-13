@@ -89,7 +89,7 @@ public class LinkedListMain {
 			System.out.println(linkList.deleteFirst().data);
 		}*/
 		
-		//System.out.println("Data :"+linkList.find(1) );
+		System.out.println("Data :"+linkList.find(1) );
 		
 		System.out.println("Data Deleted :"+linkList.delete(19).data);
 		
