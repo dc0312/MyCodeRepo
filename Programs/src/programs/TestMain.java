@@ -5,11 +5,12 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class TestMain implements Test{
+public class TestMain implements Test1,Test2{
 
 	@Override
 	public void test() {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub Method 
+		System.out.println("***************TestMethod called********************");
 		
 	}
 	
@@ -59,6 +60,16 @@ public class TestMain implements Test{
 										.collect(Collectors.toList());
 		
 		pairList.stream().map(Arrays::toString).forEach(System.out::println);
+		
+		TestMain main = new TestMain();
+		main.testDef();
+		main.test();
+	}
+
+	@Override
+	public void testDef() {
+		// TODO Auto-generated method stub
+		//Test1.super.testDef();
 	}
 
 }

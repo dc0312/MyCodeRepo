@@ -36,7 +36,7 @@ public class OverLoadingOverRiddingTest {
 		Animal a = new Animal();
 		System.out.println("========");
 		Dog d = new Dog();
-		//Animal a1 = new Dog();
+		Animal a1 = new Dog();
 		
 		a.eat();//Animal eats
 		d.eat();//Dog eats

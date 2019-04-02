@@ -48,6 +48,19 @@ class Dog1 extends Animal1{
 
 public class TypeCasting {
 	
+	final static int num;
+	static {
+		num =10;
+	}
+	
+	public static void test(Dog1 a) {
+		System.out.println("Dog1 Called");
+	}
+	
+	public static void test(Animal1 a) {
+		System.out.println("Animal Called");
+	}
+	
 	public static void main(String[] args) {
 		Animal1 a1 = new Animal1();
 		Dog1 d1 = new Dog1();
@@ -64,5 +77,7 @@ public class TypeCasting {
 		
 		a1.getName();
 		((Dog1) a2).getDogBreed();
+		
+		test(null);
 	}
 }
