@@ -16,7 +16,7 @@ public class StringPermutations {
 
 	private static TreeSet permutation(String perm, String word) {
 		if (word.isEmpty()) {
-			treeSet.add(perm + word);
+			treeSet.add(perm);
 			System.out.println("word :"+perm);
 		} else {
 			for (int i = 0; i<word.length(); i++) {

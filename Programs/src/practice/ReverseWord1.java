@@ -22,11 +22,5 @@ public class ReverseWord1 {
 		
 		System.out.println("Reverse Word:"+ reverse(word));
 		
-		Integer i1 = 1000;
-		Integer i2 =1000;
-		if(i1==i2) System.out.println("i1==i2");
-		if(i1.equals(i2)) System.out.println("i1.equals(i2)");
-		if(i1!=i2) System.out.println("i1!=i2");
-		
 	}
 }

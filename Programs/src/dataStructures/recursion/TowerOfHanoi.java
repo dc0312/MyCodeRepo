@@ -2,7 +2,7 @@ package dataStructures.recursion;
 
 public class TowerOfHanoi {
 	public static void main(String[] args) {
-		logic(2, 'A', 'B', 'C');
+		logic(3, 'A', 'B', 'C');
 	}
 	
 	public static void  logic(int nDisks, char from , char inter, char to) {

@@ -35,6 +35,19 @@ class MiddleLinkedList{
 	      }
 	    
 		return null != middle ? middle.data : null;
+		
+		
+		//Apporach 2 with Hare and Tortoise algorithm
+		/*Link4 fast = first;
+		Link4 slow = first;
+		
+		while(fast!= null && fast.next!=null) {
+			slow = slow.next;
+			fast = fast.next.next;
+		}
+		
+		return slow.data;*/
+		
 	}
 }
 public class MiddleElementOfLinkedList {
