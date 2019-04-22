@@ -20,7 +20,7 @@ public class ResolveDeadLockTest {
                         e.printStackTrace();
                     }
                     // Thread-1 have A but need B also
-                    synchronized (b) {
+                    synchronized (a) {
                         System.out.println("In block 1");
                     }
                 }
@@ -32,7 +32,7 @@ public class ResolveDeadLockTest {
             public void run() {
                 synchronized (b) {
                     // Thread-2 have B but need A also
-                    synchronized (a) {
+                    synchronized (b) {
                         System.out.println("In block 2");
                     }
                 }
