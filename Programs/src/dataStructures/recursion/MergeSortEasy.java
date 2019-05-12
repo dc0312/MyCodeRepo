@@ -3,7 +3,7 @@ package dataStructures.recursion;
 import java.util.Arrays;
 
 public class MergeSortEasy {
-	private static int[] numbers = { 4,2,5,1,3};
+	private static int[] numbers = { 2,1,3};
 	private static int[] helper = new int[numbers.length];
 
 	public static void main(String[] args) {

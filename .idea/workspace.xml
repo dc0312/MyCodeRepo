@@ -2,17 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="035c0cd3-97c8-4c32-a53f-fc7c8436cc0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Programs/src/threads/executors/common/ExceptionLeakingTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedListMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programs/bin/dataStructures/linkedlist/FindnthNodeMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/bin/dataStructures/linkedlist/FindnthNodeMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyCodeRepo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyCodeRepo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Programs/bin/dataStructures/recursion/MergeSortEasy.class" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/bin/dataStructures/recursion/MergeSortEasy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programs/bin/exceptionssss/programs/TryWithResources.class" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/bin/exceptionssss/programs/TryWithResources.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programs/bin/practice/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/bin/practice/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programs/bin/threads/MyRunnable1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/bin/threads/MyRunnable1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programs/bin/threads/MyRunnable3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programs/bin/threads/ThreadJoinDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/bin/threads/ThreadJoinDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programs/src/hackerRank/Kangaroo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/src/hackerRank/Kangaroo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programs/src/threads/ResolveDeadLockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/src/threads/ResolveDeadLockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/bin/hackerRank/Kangaroo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/bin/hackerRank/Kangaroo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/bin/programs/BalanceLog$Exp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/bin/programs/BalanceLog$Line.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/bin/programs/BalanceLog$Log.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/bin/programs/BalanceLog$Power.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/bin/programs/BalanceLog$Sine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/bin/programs/BalanceLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/bin/threads/ResolveDeadLockTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/bin/threads/ResolveDeadLockTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/bin/threads/ResolveDeadLockTest$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/bin/threads/ResolveDeadLockTest$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/bin/threads/ResolveDeadLockTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/bin/threads/ResolveDeadLockTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/src/dataStructures/recursion/MergeSortEasy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/src/dataStructures/recursion/MergeSortEasy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/src/programs/BalanceLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/src/programs/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/src/programs/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCodeRepo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCodeRepo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCodeRepo/MyCodeRepo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCodeRepo/MyCodeRepo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCodeRepo/Programs/BalanceLog$Exp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCodeRepo/Programs/BalanceLog$Line.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCodeRepo/Programs/BalanceLog$Log.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCodeRepo/Programs/BalanceLog$Power.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCodeRepo/Programs/BalanceLog$Sine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCodeRepo/Programs/BalanceLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCodeRepo/dataStructures/recursion/MergeSortEasy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCodeRepo/dataStructures/recursion/MergeSortEasy.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,33 +39,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/threadsJoining/JoiningExecutorsThreads.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/common/LoopTaskH.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -65,6 +58,7 @@
       <find>ValueReturningTaskA</find>
       <find>LoopTaskE</find>
       <find>ValueReturningTaskB</find>
+      <find>Dead</find>
     </findStrings>
     <replaceStrings>
       <replace>SecondTask</replace>
@@ -80,79 +74,75 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/FifthWay.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/FixedThreadPool.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/CachedThreadPool.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/SingleThreadPool.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/NamingThreadsFirstWay.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/common/LoopTaskB.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/naming/NamingThreadsFirstWay.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/common/LoopTaskC.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/naming/NamingThreadsSecondWay.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/naming/NamingThreadsExecutorsThread.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/common/NamedThreadsFactory.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/naming/NamingThreadsExecutorsThread2.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/returningValues/ValueReturningTaskA.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/common/ValueReturningTaskA.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/returningValues/ReturnValueFirstWay.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/ResolveDeadLockTest.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/DeadLock.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/common/ResultListener.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/common/SumObserver.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/returningValues/ReturnValueSecondWay.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/common/ValueReturningTaskB.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/common/CalculationTaskA.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/returningValues/ReturningValueUsingExecutorsFirstWay.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/common/TaskResult.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/common/CalculationTaskB.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/returningValues/ReturningValueUsingExecutorsSecondWay.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/common/LoopTaskD.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/terminatingThreads/TerminatingThreadsFirstWay.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/common/LoopTaskE.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/common/LoopTaskF.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/terminatingThreads/TerminatingThreadsSecondWay.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/terminatingExecutorsTask/TerminatingExecutorsTaskFirstWay.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/common/LoopTaskG.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/common/FactorialTaskA.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/common/FactorialTaskB.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/terminatingExecutorsTask/TerminatingBlockedExecutorTask.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/common/LoopTaskA.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/terminatingExecutorsTask/TerminatingAllExecutorsTask.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/common/ExceptionLeakingTask.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/threads/exceptionHandling/HandlingUncaugthExceptionForEveryThread.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/threads/exceptionHandling/HandlingUncaugthExceptionForEachThreadDifferently.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/executors/exceptionalHandling/HandlingExecutorsUncaugthExceptionsForEveryThread.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/common/ThreadExceptionHandler.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/common/ThreadsFactoryExceptionHandler.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/executors/exceptionalHandling/HandlingExecutorsUncaugthExceptionsDifferentlyForEachThread.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/threadsJoining/JoiningThreads.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/threadsJoining/ReturnValueThirdWay.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/common/ValueReturningTaskC.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/threadsJoining/JoiningExecutorThreads.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/common/LoopTaskH.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/executors/threadsJoining/JoiningExecutorsThreads.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp04simplePattern/ProductPost.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp04simplePattern/Client.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp04simplePattern/PostFactory.java" />
+        <option value="$PROJECT_DIR$/Programs/src/cloning/example/StateMainCopyConstructor.java" />
+        <option value="$PROJECT_DIR$/Programs/src/practice2/Animal.java" />
+        <option value="$PROJECT_DIR$/Programs/src/practice2/AbstractAnimal.java" />
+        <option value="$PROJECT_DIR$/Programs/src/practice2/Animal1.java" />
+        <option value="$PROJECT_DIR$/Programs/src/practice2/Cat.java" />
+        <option value="$PROJECT_DIR$/Programs/src/practice2/Main.java" />
+        <option value="$PROJECT_DIR$/Programs/src/practice2/Dog.java" />
+        <option value="$PROJECT_DIR$/Programs/src/programs/Test.java" />
+        <option value="$PROJECT_DIR$/Programs/src/threads/BankAccount1.java" />
+        <option value="$PROJECT_DIR$/Programs/src/threads/BankThread.java" />
+        <option value="$PROJECT_DIR$/Programs/src/RegExMain.java" />
+        <option value="$PROJECT_DIR$/Programs/src/programs/SwapStringNotSpecial.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05FactoryPattern/Message.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05FactoryPattern/JSONMessage.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05FactoryPattern/TextMessage.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05FactoryPattern/MessageCreator.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05FactoryPattern/JSONMessageCreator.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05FactoryPattern/TextMessageCreator.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05FactoryPattern/Client.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/Instance.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/gcp/GoogleCloudStorage.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/gcp/GoogleComputeEngineInstance.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/aws/Ec2Instance.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/aws/S3Storage.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/ResourceFactory.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/aws/AwsResourceFactory.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/gcp/GoogleResourceFactory.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/Client.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05SingletonPattern/EagerRegistry.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05SingletonPattern/LazyRegistryDCL.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05SingletonPattern/LazyRegistryInitializationHolder.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05SingletonPattern/SingletonEnum.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05SingletonPattern/Client.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/BusinessCardDesigner.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/EmployeeClassAdapter.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/EmployeeObjectAdapter.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/Main.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/Base64EncodedMessage.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/HtmlEncodedMessage.java" />
+        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/Client.java" />
+        <option value="$PROJECT_DIR$/Programs/src/Main.java" />
+        <option value="$PROJECT_DIR$/Programs/src/B.java" />
+        <option value="$PROJECT_DIR$/Programs/src/A.java" />
+        <option value="$PROJECT_DIR$/Programs/src/threads/D.java" />
+        <option value="$PROJECT_DIR$/Programs/src/D.java" />
+        <option value="$PROJECT_DIR$/Programs/src/C.java" />
+        <option value="$PROJECT_DIR$/Programs/src/dataStructures/recursion/MergeSortEasy.java" />
+        <option value="$PROJECT_DIR$/Programs/src/hackerRank/FindMissingNumber.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="15" />
     <option name="y" value="30" />
     <option name="width" value="1890" />
     <option name="height" value="960" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,66 +150,26 @@
               <item name="MyCodeRepo" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyCodeRepo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="MyCodeRepo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCodeRepo" type="462c0819:PsiDirectoryNode" />
-              <item name="Programs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCodeRepo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCodeRepo" type="462c0819:PsiDirectoryNode" />
-              <item name="Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCodeRepo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCodeRepo" type="462c0819:PsiDirectoryNode" />
-              <item name="Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="threads" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCodeRepo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCodeRepo" type="462c0819:PsiDirectoryNode" />
-              <item name="Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="threads" type="462c0819:PsiDirectoryNode" />
-              <item name="executors" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCodeRepo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCodeRepo" type="462c0819:PsiDirectoryNode" />
-              <item name="Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="threads" type="462c0819:PsiDirectoryNode" />
-              <item name="executors" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCodeRepo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCodeRepo" type="462c0819:PsiDirectoryNode" />
-              <item name="Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="threads" type="462c0819:PsiDirectoryNode" />
-              <item name="executors" type="462c0819:PsiDirectoryNode" />
-              <item name="threadsJoining" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Programs/src/threads/executors" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/pattern/decorator-begin/udemy-design-patterns-handson/lib" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -230,7 +180,11 @@
       <recent name="Programs.src.threads.executors.terminatingExecutorsTask" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\deechaturvedi\Documents\MyCodeRepo\Programs\src\threads\executors" />
+      <recent name="C:\Users\deechaturvedi\Documents\MyCodeRepo\Programs\com\dc\designPatterns\dp08DecoratorDesignPattern" />
+      <recent name="C:\Users\deechaturvedi\Documents\MyCodeRepo\Programs\com\dc\designPatterns\dp07AdapterFactoryPattern" />
+      <recent name="C:\Users\deechaturvedi\Documents\MyCodeRepo\Programs\com\dc\designPatterns\dp06AbstractFactoryPattern" />
+      <recent name="C:\Users\deechaturvedi\Documents\MyCodeRepo\Programs\com\dc\designPatterns\04simplePattern" />
+      <recent name="C:\Users\deechaturvedi\Documents\MyCodeRepo\Programs\com\dc\designPatterns\builderPattern2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -245,13 +199,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JoiningExecutorsThreads">
-    <configuration name="HandlingExecutorsUncaugthExceptionsDifferentlyForEachThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.src.threads.executors.executors.exceptionalHandling.HandlingExecutorsUncaugthExceptionsDifferentlyForEachThread" />
+  <component name="RunManager" selected="Application.DeadLock">
+    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.src.C" />
       <module name="MyCodeRepo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programs.src.threads.executors.executors.exceptionalHandling.*" />
+          <option name="PATTERN" value="Programs.src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -259,12 +213,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HandlingExecutorsUncaugthExceptionsForEveryThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.src.threads.executors.executors.exceptionalHandling.HandlingExecutorsUncaugthExceptionsForEveryThread" />
+    <configuration name="DeadLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.src.threads.DeadLock" />
       <module name="MyCodeRepo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programs.src.threads.executors.executors.exceptionalHandling.*" />
+          <option name="PATTERN" value="Programs.src.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,12 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JoiningExecutorsThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.src.threads.executors.threadsJoining.JoiningExecutorsThreads" />
+    <configuration name="FindMissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.src.hackerRank.FindMissingNumber" />
       <module name="MyCodeRepo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programs.src.threads.executors.threadsJoining.*" />
+          <option name="PATTERN" value="Programs.src.hackerRank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,12 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JoiningThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.src.threads.executors.threadsJoining.JoiningThreads" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.src.Main" />
       <module name="MyCodeRepo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programs.src.threads.executors.threadsJoining.*" />
+          <option name="PATTERN" value="Programs.src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -298,12 +252,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnValueThirdWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.src.threads.executors.threadsJoining.ReturnValueThirdWay" />
+    <configuration name="MergeSortEasy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructures.recursion.MergeSortEasy" />
       <module name="MyCodeRepo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programs.src.threads.executors.threadsJoining.*" />
+          <option name="PATTERN" value="dataStructures.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,11 +267,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JoiningExecutorsThreads" />
-        <item itemvalue="Application.ReturnValueThirdWay" />
-        <item itemvalue="Application.JoiningThreads" />
-        <item itemvalue="Application.HandlingExecutorsUncaugthExceptionsDifferentlyForEachThread" />
-        <item itemvalue="Application.HandlingExecutorsUncaugthExceptionsForEveryThread" />
+        <item itemvalue="Application.DeadLock" />
+        <item itemvalue="Application.FindMissingNumber" />
+        <item itemvalue="Application.MergeSortEasy" />
+        <item itemvalue="Application.C" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -334,17 +288,21 @@
       <workItem from="1555350604644" duration="1956000" />
       <workItem from="1555417437975" duration="6963000" />
       <workItem from="1555478109476" duration="65818000" />
+      <workItem from="1555944106575" duration="6929000" />
+      <workItem from="1556020778079" duration="12616000" />
+      <workItem from="1556181587512" duration="11458000" />
+      <workItem from="1556553847795" duration="26644000" />
+      <workItem from="1557048526772" duration="196000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74737000" />
+    <option name="totallyTimeSpent" value="132580000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23319837" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2534413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -352,8 +310,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.18294849" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39609236" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -423,6 +381,16 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
+        <expression-string>substrings.size()-2</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>words</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>this</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -450,436 +418,502 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/FifthWay.java">
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/gcp/GoogleComputeEngineInstance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/common.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/FixedThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        <state relative-caret-position="204">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/CachedThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/SingleThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="69" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/common/LoopTaskB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/naming/NamingThreadsFirstWay.java">
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/ResourceFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/naming/NamingThreadsSecondWay.java">
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/gcp/GoogleResourceFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/naming/NamingThreadsExecutorsThread2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/DeadLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+        <state relative-caret-position="282">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
           <folding>
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#919#1035#0" expanded="true" />
-            <element signature="e#1034#1035#0" expanded="true" />
-            <element signature="e#1260#1261#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/ResolveDeadLockTest.java">
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/aws/AwsResourceFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        <state relative-caret-position="289">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/common/ResultListener.java">
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/aws/S3Storage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/common/SumObserver.java">
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/Instance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-          <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/returningValues/ReturnValueSecondWay.java">
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/aws/Ec2Instance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="90" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="90" />
+        <state relative-caret-position="146">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/returningValues/ReturningValueUsingExecutorsFirstWay.java">
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="197">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/common/TaskResult.java">
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05SingletonPattern/EagerRegistry.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+        <state relative-caret-position="187">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
           <folding>
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#890#891#0" expanded="true" />
-            <element signature="e#941#942#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/returningValues/ReturningValueUsingExecutorsSecondWay.java">
+    <entry file="file://$PROJECT_DIR$/Programs/src/singleton/SingletonClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="22" column="81" selection-start-line="22" selection-start-column="81" selection-end-line="22" selection-end-column="81" />
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/src/singleton/SingletonClass1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/src/singleton/SingletonClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/src/singleton/Singleton4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05SingletonPattern/LazyRegistryDCL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05SingletonPattern/LazyRegistryInitializationHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
           <folding>
-            <element signature="e#561#589#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/returningValues/ReturnValueFirstWay.java">
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05SingletonPattern/SingletonEnum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="28" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+        <state relative-caret-position="68">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/common/LoopTaskE.java">
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05SingletonPattern/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="32" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="32" />
+        <state relative-caret-position="248">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/EmployeeObjectAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/terminatingThreads/TerminatingThreadsSecondWay.java">
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        <state relative-caret-position="238">
+          <caret line="14" column="85" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/common/NamedThreadsFactory.java">
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/BusinessCardDesigner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/EmployeeClassAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/Base64EncodedMessage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/common/ValueReturningTaskA.java">
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/Message.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="54" column="28" lean-forward="true" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="30" />
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/common/ValueReturningTaskB.java">
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/TextMessage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/common/FactorialTaskA.java">
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/HtmlEncodedMessage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="23" selection-start-line="23" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/terminatingExecutorsTask/TerminatingExecutorsTaskFirstWay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        <state relative-caret-position="247">
+          <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/common/LoopTaskG.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="25" column="22" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/common/CalculationTaskA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/common/FactorialTaskB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/common/CalculationTaskB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/terminatingExecutorsTask/TerminatingBlockedExecutorTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/common/LoopTaskF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="21" column="121" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="121" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/terminatingExecutorsTask/TerminatingAllExecutorsTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="30" column="75" selection-start-line="30" selection-start-column="75" selection-end-line="30" selection-end-column="75" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/common/LoopTaskA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/terminatingThreads/TerminatingThreadsFirstWay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="90" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="90" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/threads/exceptionHandling/HandlingUncaugthExceptionForEveryThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/threads/exceptionHandling/HandlingUncaugthExceptionForEachThreadDifferently.java">
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/common/ExceptionLeakingTask.java">
+    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/builderPatternJoshuaBloch/NutritionalFacts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/src/B.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
           <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/common/ThreadExceptionHandler.java">
+    <entry file="file://$PROJECT_DIR$/Programs/src/threads/D.java" />
+    <entry file="file://$PROJECT_DIR$/Programs/src/programs/TestClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding>
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="145">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/executors/exceptionalHandling/HandlingExecutorsUncaugthExceptionsForEveryThread.java">
+    <entry file="file://$PROJECT_DIR$/Programs/src/programs/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="16" column="60" lean-forward="true" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/common/ThreadsFactoryExceptionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/threads/joining.java">
+    <entry file="file://$PROJECT_DIR$/Programs/src/programs/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/executors/exceptionalHandling/HandlingExecutorsUncaugthExceptionsDifferentlyForEachThread.java">
+    <entry file="file://$PROJECT_DIR$/Programs/src/programs/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" column="83" selection-start-line="15" selection-start-column="83" selection-end-line="15" selection-end-column="83" />
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/naming/NamingThreadsExecutorsThread.java">
+    <entry file="file://$PROJECT_DIR$/Programs/src/programs/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="93" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="93" />
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/src/D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/threadsJoining/JoiningThreads.java">
+    <entry file="file://$PROJECT_DIR$/Programs/src/A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/threadsJoining/ReturnValueThirdWay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/common/ValueReturningTaskC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        <state relative-caret-position="85">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
           <folding>
-            <element signature="e#1305#1306#0" expanded="true" />
-            <element signature="e#1331#1332#0" expanded="true" />
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/threadsJoining/JoiningExecutorThreads.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/common/LoopTaskD.java">
+    <entry file="file://$PROJECT_DIR$/Programs/src/C.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="22" selection-start-line="22" selection-end-line="23" />
+        <state relative-caret-position="281">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/common/LoopTaskC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/common/LoopTaskH.java">
+    <entry file="file://$PROJECT_DIR$/Programs/src/cloning/example/Cloning.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+          <caret line="150" column="36" lean-forward="true" selection-start-line="150" selection-start-column="36" selection-end-line="150" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/threads/executors/threadsJoining/JoiningExecutorsThreads.java">
+    <entry file="file://$PROJECT_DIR$/Programs/src/cloning/example/StateMainCopyConstructor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-1122">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/src/dataStructures/recursion/MergeMain2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/src/dataStructures/recursion/MergSortMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/src/dataStructures/recursion/TowerOfHanoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/src/dataStructures/recursion/BinarySearchRecursionMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/src/dataStructures/recursion/MergeSortEasy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-527">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/src/dataStructures/linkedlist/MergeTwoSortedNodesMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-544">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/src/hackerRank/FindMissingNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/src/threads/DeadLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Programs/src/dataStructures/linkedlist/FindLoopLinkedListMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="32" column="4" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MyCodeRepo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

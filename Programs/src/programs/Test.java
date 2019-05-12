@@ -1,6 +1,6 @@
 package programs;
 
-public interface Test extends Test1,Test2{
+public interface Test extends programs.Test1, programs.Test2 {
 
 	@Override
 	default void testDef() {
