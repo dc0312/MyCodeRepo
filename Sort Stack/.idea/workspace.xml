@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5cd4616-4538-4b68-ad02-e2246a47ca9d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/Area.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/GFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/GFG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/NonRepeatingDigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/RemoveDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/RemoveDuplicates2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/cloning/example/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/cloning/example/Address.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/cloning/example/Cloning.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/cloning/example/Cloning.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/cloning/example/People.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/cloning/example/People.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/cloning/example/State.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/cloning/example/State.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/cloning/example/StateMainCopyConstructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/cloning/example/StateMainCopyConstructor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/cloning/example/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/cloning/example/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/arrays/ArrayBub.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/arrays/ArrayBub.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/arrays/ArraySel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/arrays/ArraySel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/arrays/BubbleSortApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/arrays/BubbleSortApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/arrays/SelectionSortApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/arrays/SelectionSortApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/arrays/SortArrayUsingComparator$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/arrays/SortArrayUsingComparator$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/arrays/SortArrayUsingComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/arrays/SortArrayUsingComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/DoubleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/DoubleLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/DoubleLinkedListMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/DoubleLinkedListMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/DoublyLinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/DoublyLinkList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/DoublyLinkListMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/DoublyLinkListMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/FindLoopLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/FindLoopLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/FindLoopLinkedListMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/FindLoopLinkedListMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/FindnthNodeLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/FindnthNodeLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/FindnthNodeMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/FindnthNodeMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/Link.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/Link.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/Link1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/Link1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/Link2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/Link2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/Link3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/Link3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/Link4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/Link4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/Link5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/Link5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/Link6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/Link6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/Link7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/Link7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/LinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/LinkList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/LinkList1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/LinkList1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/LinkQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/LinkQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/LinkedListMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/LinkedListMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/MergeTwoSortedNodesLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/MergeTwoSortedNodesLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/MergeTwoSortedNodesMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/MergeTwoSortedNodesMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/MiddleElementOfLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/MiddleElementOfLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/MiddleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/MiddleLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/QueueUsingDoubleLinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/QueueUsingDoubleLinkList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/RemoveDuplicatesFromLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/RemoveDuplicatesFromLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/RemoveDuplicatesFromLLMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/RemoveDuplicatesFromLLMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/ReverseLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/ReverseLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/ReverseLinkedListMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/ReverseLinkedListMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/SortedLinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/SortedLinkList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/StackUsingLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/linkedlist/StackUsingLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/recursion/BinarySearchRecursionMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/recursion/BinarySearchRecursionMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/recursion/DArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/recursion/DArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/recursion/KnapSack2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/recursion/KnapSack2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/recursion/Knapsack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/recursion/Knapsack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/recursion/MergSortMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/recursion/MergSortMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/recursion/MergeMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/recursion/MergeMain2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/recursion/MergeSortEasy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/recursion/MergeSortEasy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/recursion/StringPermutations.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/recursion/StringPermutations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/recursion/TowerOfHanoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/recursion/TowerOfHanoi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/stack/Evaluate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/stack/Evaluate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/stack/IntToPost.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/stack/IntToPost.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/stack/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/stack/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/stack/QueueApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/stack/QueueApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/stack/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/stack/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/dataStructures/stack/StackApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/dataStructures/stack/StackApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/exceptionssss/programs/AutoCloseableResource.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/exceptionssss/programs/AutoCloseableResource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/exceptionssss/programs/BadNumberException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/exceptionssss/programs/BadNumberException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/exceptionssss/programs/ExceptionPropagation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/exceptionssss/programs/ExceptionPropagation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/exceptionssss/programs/MyAutoCloseable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/exceptionssss/programs/MyAutoCloseable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/exceptionssss/programs/TryWithResources.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/exceptionssss/programs/TryWithResources.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/exceptionssss/programs/TryWithResources2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/exceptionssss/programs/TryWithResources2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/AppendDelete.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/AppendDelete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/ArraySum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/ArraySum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/BigFactorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/BigFactorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/BirthdayCake.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/BirthdayCake.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/BirthdayChocolate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/BirthdayChocolate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/BreakingTheGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/BreakingTheGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/CaesarCipher.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/CaesarCipher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/CamelCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/CamelCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/CompareTriplets.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/CompareTriplets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/DiagonalDifference.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/DiagonalDifference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/DivisibleSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/DivisibleSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/FindingDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/FindingDigit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/FourDigitSquares.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/FourDigitSquares.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/GradingStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/GradingStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/HackerRankInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/HackerRankInString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/JavaAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/JavaAnagram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/Kangaroo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/Kangaroo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/LibraryFine.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/LibraryFine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/MakingAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/MakingAnagrams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/MarsExploration.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/MarsExploration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/MinMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/MinMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/MinimumSwaps.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/MinimumSwaps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/PlusMinus.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/PlusMinus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/ReducedString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/ReducedString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/SherlockAndAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/SherlockAndAnagrams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/SherlockAndSquares.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/SherlockAndSquares.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/Staircase.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/Staircase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/Staircase2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/Staircase2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/Staircase3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/Staircase3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/StrongPassword.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/StrongPassword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/TimeConversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/TimeConversion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/TwoCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/TwoCharacters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/WeigthedUniform.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/hackerRank/WeigthedUniform.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/overLoadingOverRiddingPractice/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/overLoadingOverRiddingPractice/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/overLoadingOverRiddingPractice/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/overLoadingOverRiddingPractice/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/overLoadingOverRiddingPractice/Animal10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/overLoadingOverRiddingPractice/Animal10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/overLoadingOverRiddingPractice/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/overLoadingOverRiddingPractice/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/overLoadingOverRiddingPractice/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/overLoadingOverRiddingPractice/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/overLoadingOverRiddingPractice/Dog10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/overLoadingOverRiddingPractice/Dog10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/overLoadingOverRiddingPractice/Equaloveridding.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/overLoadingOverRiddingPractice/Equaloveridding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/overLoadingOverRiddingPractice/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/overLoadingOverRiddingPractice/Main1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/overLoadingOverRiddingPractice/OverLoadingOverRiddingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/overLoadingOverRiddingPractice/OverLoadingOverRiddingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/practice/HourGlassProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/practice/HourGlassProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/practice/ReverseWord1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/practice/ReverseWord1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/practice/ReverseWord2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/practice/ReverseWord2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/practice/ReverseWord3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/practice/ReverseWord3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/practice/SegregateEvenOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/practice/SegregateEvenOdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/practice/SegregatePositiveNegative.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/practice/SegregatePositiveNegative.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/practice/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/practice/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/practice/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/practice/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/Animal1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/Animal1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/Bottom2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/Bottom2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/Chrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/Chrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/Class_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/Class_Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/Dog1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/Dog1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/DupChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/DupChars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/LabeledLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/LabeledLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/MaxRepeatedWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/MaxRepeatedWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/ReverseStringPerserveSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/ReverseStringPerserveSpace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/Stats$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/Stats$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/Stats$StatisticsAggregator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/Stats$StatisticsAggregator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/Stats$StatisticsAggregatorImpl$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/Stats$StatisticsAggregatorImpl$A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/Stats$StatisticsAggregatorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/Stats$StatisticsAggregatorImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/Stats.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/Stats.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/Stats2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/Stats2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/Stats2$StatisticsAggregator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/Stats2$StatisticsAggregator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/Stats2$StatisticsAggregatorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/Stats2$StatisticsAggregatorImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/Stats2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/Stats2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/Test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/TestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/Threshold.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/Threshold.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/Top.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/Top.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/TypeCasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/TypeCasting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/X.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/X.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/programs/Y.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/programs/Y.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/serialization/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/serialization/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/serialization/Reader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/serialization/Reader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/serialization/Writer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/serialization/Writer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/singleton/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/singleton/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/singleton/Singleton1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/singleton/Singleton1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/singleton/Singleton4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/singleton/Singleton4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/singleton/SingletonClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/singleton/SingletonClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/singleton/SingletonClass1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/singleton/SingletonClass1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/singleton/SingletonClass2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/singleton/SingletonClass2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/streams/example/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/streams/example/Department.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/streams/example/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/streams/example/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/streams/example/EmployeeMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/streams/example/EmployeeMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/streams/example/Trader.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/streams/example/Trader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/streams/example/TraderTransactionMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/streams/example/TraderTransactionMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/streams/example/Transaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/streams/example/Transaction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/threads/BankAccount$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/threads/BankAccount$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/threads/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/threads/BankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/threads/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/threads/Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/threads/Display.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/threads/Display.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/threads/MainThreadJoinChildDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/threads/MainThreadJoinChildDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/threads/MyRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/threads/MyRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/threads/MyRunnable1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/threads/MyRunnable1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/threads/MyRunnable2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/threads/MyRunnable2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/threads/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/threads/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/threads/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/threads/Producer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/threads/ReentrantLockMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/threads/ReentrantLockMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/threads/ResolveDeadLockTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/threads/ResolveDeadLockTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/threads/ResolveDeadLockTest$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/threads/ResolveDeadLockTest$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/threads/ResolveDeadLockTest$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/threads/ResolveDeadLockTest$A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/threads/ResolveDeadLockTest$B.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/threads/ResolveDeadLockTest$B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/threads/ResolveDeadLockTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/threads/ResolveDeadLockTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/threads/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/threads/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/threads/SystemThreadGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/threads/SystemThreadGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/threads/ThreadJoinDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/threads/ThreadJoinDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/threads/YieldDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/threads/YieldDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/threads/YieldExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/threads/YieldExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/Area.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/C.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/GFG.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/GFG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/NonRepeatingDigit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/RemoveDuplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/RemoveDuplicates2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/hackerRank/AngryProfessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/hackerRank/AngryProfessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/hackerRank/BalancedParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/hackerRank/BalancedParenthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/hackerRank/BeautifulDays.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/hackerRank/BeautifulDays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/hackerRank/CountingValleys.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/hackerRank/CountingValleys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/hackerRank/DayOfProgrammer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/hackerRank/DayOfProgrammer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/hackerRank/FindMissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/hackerRank/FindMissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/hackerRank/PassingTheHurdle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/hackerRank/PassingTheHurdle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/hackerRank/PdfViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/hackerRank/PdfViewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/hackerRank/PickingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/hackerRank/PickingNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/hackerRank/SaveThePrisioner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/hackerRank/SaveThePrisioner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/practice2/AbstractAnimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/practice2/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/practice2/Animal1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/practice2/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/practice2/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/practice2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/threads/ReentrantLockMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/threads/ReentrantLockMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/META-INF/MyCodeRepo.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/Animal1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/Bottom2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/Chrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/Class_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/Dog1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/DupChars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/LabeledLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/MaxRepeatedWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/ReverseStringPerserveSpace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/Stats$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/Stats$StatisticsAggregator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/Stats$StatisticsAggregatorImpl$A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/Stats$StatisticsAggregatorImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/Stats.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/Stats2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/Stats2$StatisticsAggregator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/Stats2$StatisticsAggregatorImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/Stats2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/TestMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/Threshold.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/Top.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/TypeCasting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/X.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/Y.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/builderPattern/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/builderPattern/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/builderPattern/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/builderPattern/UserDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/builderPattern/UserDTOBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/builderPattern/UserWebDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/builderPattern/UserWebDTOBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/builderPattern2/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/builderPattern2/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/builderPattern2/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/builderPattern2/UserDTO$UserDTOBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/builderPattern2/UserDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/builderPatternJoshuaBloch/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/builderPatternJoshuaBloch/NutritionalFacts$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/builderPatternJoshuaBloch/NutritionalFacts$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/builderPatternJoshuaBloch/NutritionalFacts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp04simplePattern/BlogPost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp04simplePattern/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp04simplePattern/NewsPost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp04simplePattern/Post.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp04simplePattern/PostFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp04simplePattern/ProductPost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp05FactoryPattern/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp05FactoryPattern/JSONMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp05FactoryPattern/JSONMessageCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp05FactoryPattern/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp05FactoryPattern/MessageCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp05FactoryPattern/TextMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp05FactoryPattern/TextMessageCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp05SingletonPattern/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp05SingletonPattern/EagerRegistry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp05SingletonPattern/LazyRegistryDCL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp05SingletonPattern/LazyRegistryInitializationHolder$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp05SingletonPattern/LazyRegistryInitializationHolder$RegistryHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp05SingletonPattern/LazyRegistryInitializationHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp05SingletonPattern/SingletonEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/Instance$Capacity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/Instance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/ResourceFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/Storage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/aws/AwsResourceFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/aws/Ec2Instance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/aws/S3Storage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/gcp/GoogleCloudStorage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/gcp/GoogleComputeEngineInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/gcp/GoogleResourceFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/BusinessCardDesigner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/EmployeeClassAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/EmployeeObjectAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/Base64EncodedMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/HtmlEncodedMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/TextMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/hackerRank/AngryProfessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/hackerRank/BalancedParenthesis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/hackerRank/BeautifulDays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/hackerRank/CountingValleys.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/hackerRank/DayOfProgrammer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/hackerRank/FindMissingNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/hackerRank/PassingTheHurdle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/hackerRank/PdfViewer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/hackerRank/PickingNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/hackerRank/SaveThePrisioner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/hackerRank/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/practice2/AbstractAnimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/practice2/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/practice2/Animal1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/practice2/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/practice2/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/practice2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/practiceThreads/Message.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/practiceThreads/Reader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/practiceThreads/Thread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/practiceThreads/Thread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/practiceThreads/ThreadJoinDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/practiceThreads/ThreadMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/practiceThreads/Writer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/programs/SwapStringNotSpecial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/BankAccount1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/BankThread$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/BankThread$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/BankThread$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/BankThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/DeadLock$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/DeadLock$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/DeadLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/CachedThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/FifthWay$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/FifthWay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/FirstTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/FirstWay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/FixedThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/FourthTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/FourthWay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/SecondTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/SecondWay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/SingleThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/ThirdTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/ThirdWay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/common/CalculationTaskA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/common/CalculationTaskB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/common/ExceptionLeakingTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/common/FactorialTaskA$JoiningExecutorThreads.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/common/FactorialTaskA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/common/FactorialTaskB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/common/LoopTaskA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/common/LoopTaskB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/common/LoopTaskC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/common/LoopTaskD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/common/LoopTaskF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/common/LoopTaskG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/common/LoopTaskH.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/common/NamedThreadsFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/common/ResultListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/common/SumObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/common/TaskResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/common/ThreadExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/common/ThreadsFactoryExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/common/ValueReturningTaskA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/common/ValueReturningTaskB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/common/ValueReturningTaskC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/executors/exceptionalHandling/HandlingExecutorsUncaugthExceptionsDifferentlyForEachThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/executors/exceptionalHandling/HandlingExecutorsUncaugthExceptionsForEveryThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/naming/NamingThreadsExecutorsThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/naming/NamingThreadsExecutorsThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/naming/NamingThreadsFirstWay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/naming/NamingThreadsSecondWay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/returningValues/ReturnValueFirstWay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/returningValues/ReturnValueSecondWay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/returningValues/ReturningValueUsingExecutorsFirstWay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/returningValues/ReturningValueUsingExecutorsSecondWay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/terminatingExecutorsTask/TerminatingAllExecutorsTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/terminatingExecutorsTask/TerminatingBlockedExecutorTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/terminatingExecutorsTask/TerminatingExecutorsTaskFirstWay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/terminatingThreads/TerminatingThreadsFirstWay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/terminatingThreads/TerminatingThreadsSecondWay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/threads/exceptionHandling/HandlingUncaugthExceptionForEachThreadDifferently.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/threads/exceptionHandling/HandlingUncaugthExceptionForEveryThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/threadsJoining/JoiningExecutorsThreads.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/threadsJoining/JoiningThreads.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/src/threads/executors/threadsJoining/ReturnValueThirdWay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/cloning/example/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/cloning/example/Cloning.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/cloning/example/People.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/cloning/example/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/cloning/example/StateMainCopyConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/cloning/example/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/arrays/ArrayBub.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/arrays/ArraySel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/arrays/BubbleSortApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/arrays/SelectionSortApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/arrays/SortArrayUsingComparator$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/arrays/SortArrayUsingComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/DoubleLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/DoubleLinkedListMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/DoublyLinkList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/DoublyLinkListMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/FindLoopLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/FindLoopLinkedListMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/FindnthNodeLL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/FindnthNodeMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/Link.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/Link1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/Link2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/Link3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/Link4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/Link5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/Link6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/Link7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/LinkList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/LinkList1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/LinkQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/LinkedListMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/MergeTwoSortedNodesLL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/MergeTwoSortedNodesMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/MiddleElementOfLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/MiddleLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/QueueUsingDoubleLinkList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/RemoveDuplicatesFromLL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/RemoveDuplicatesFromLLMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/ReverseLL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/ReverseLinkedListMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/SortedLinkList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/linkedlist/StackUsingLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/recursion/BinarySearchRecursionMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/recursion/DArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/recursion/KnapSack2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/recursion/Knapsack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/recursion/MergSortMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/recursion/MergeMain2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/recursion/MergeSortEasy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/recursion/StringPermutations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/recursion/TowerOfHanoi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/stack/Evaluate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/stack/IntToPost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/stack/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/stack/QueueApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/stack/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/dataStructures/stack/StackApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/exceptionssss/programs/AutoCloseableResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/exceptionssss/programs/BadNumberException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/exceptionssss/programs/ExceptionPropagation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/exceptionssss/programs/MyAutoCloseable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/exceptionssss/programs/TryWithResources.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/exceptionssss/programs/TryWithResources2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/AppendDelete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/ArraySum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/BigFactorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/BirthdayCake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/BirthdayChocolate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/BreakingTheGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/CaesarCipher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/CamelCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/CompareTriplets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/DiagonalDifference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/DivisibleSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/FindingDigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/FourDigitSquares.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/GradingStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/HackerRankInString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/JavaAnagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/Kangaroo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/LibraryFine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/MakingAnagrams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/MarsExploration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/MinMax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/MinimumSwaps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/PlusMinus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/ReducedString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/SherlockAndAnagrams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/SherlockAndSquares.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/Staircase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/Staircase2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/Staircase3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/StrongPassword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/TimeConversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/TwoCharacters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/hackerRank/WeigthedUniform.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/overLoadingOverRiddingPractice/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/overLoadingOverRiddingPractice/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/overLoadingOverRiddingPractice/Animal10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/overLoadingOverRiddingPractice/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/overLoadingOverRiddingPractice/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/overLoadingOverRiddingPractice/Dog10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/overLoadingOverRiddingPractice/Equaloveridding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/overLoadingOverRiddingPractice/Main1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/overLoadingOverRiddingPractice/OverLoadingOverRiddingTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/practice/HourGlassProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/practice/ReverseWord1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/practice/ReverseWord2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/practice/ReverseWord3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/practice/SegregateEvenOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/practice/SegregatePositiveNegative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/practice/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/practice/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/serialization/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/serialization/Reader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/serialization/Writer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/singleton/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/singleton/Singleton1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/singleton/Singleton4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/singleton/SingletonClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/singleton/SingletonClass1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/singleton/SingletonClass2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/streams/example/Department.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/streams/example/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/streams/example/EmployeeMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/streams/example/Trader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/streams/example/TraderTransactionMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/streams/example/Transaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/threads/BankAccount$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/threads/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/threads/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/threads/Display.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/threads/MainThreadJoinChildDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/threads/MyRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/threads/MyRunnable1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/threads/MyRunnable2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/threads/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/threads/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/threads/ReentrantLockMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/threads/ResolveDeadLockTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/threads/ResolveDeadLockTest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/threads/ResolveDeadLockTest$A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/threads/ResolveDeadLockTest$B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/threads/ResolveDeadLockTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/threads/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/threads/SystemThreadGroup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/threads/ThreadJoinDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/threads/YieldDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/threads/YieldExample.class" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\deechaturvedi\Documents\MyCodeRepo\Sort Stack\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.gitignore" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Q3xpMIRjMDXaZzHcaGUOKKkaww" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.dc.data.structures.linkedList.Main" />
+      <module name="Sort Stack" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5cd4616-4538-4b68-ad02-e2246a47ca9d" name="Default Changelist" comment="" />
+      <created>1567013262734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567013262734</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
