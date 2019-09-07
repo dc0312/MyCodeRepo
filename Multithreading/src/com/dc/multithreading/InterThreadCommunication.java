@@ -39,7 +39,7 @@ class Producer extends Thread {
                     }
                 } else {
                     Random r = new Random();
-                    int i = r.nextInt();
+                    int i = r.nextInt(10);
                     System.out.println("Producer produce "+i);
                     q.add(i);
                     q.notify();

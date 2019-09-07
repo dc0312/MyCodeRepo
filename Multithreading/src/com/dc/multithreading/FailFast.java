@@ -6,6 +6,7 @@ import java.util.Iterator;
 public class FailFast {
     
     public static void main(String[] args) throws InterruptedException {
+        //CopyOnWriteArrayList<Integer> l = new CopyOnWriteArrayList<>();
         ArrayList<Integer> l = new ArrayList<>();
         MyThread t = new MyThread(l);
         l.add(10);

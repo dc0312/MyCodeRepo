@@ -1,4 +1,4 @@
-package com.dc.multithreading;
+package com.dc.multithreading.immutable;
 
 import java.util.HashMap;
 import java.util.Iterator;
@@ -12,14 +12,15 @@ public final class ImmutableClassExample {
     public ImmutableClassExample(int id, String name, HashMap<String, String> hm) {
         this.id = id;
         this.name = name;
-        /*HashMap<String, String> tempMap = new HashMap<>();
+        HashMap<String, String> tempMap = new HashMap<>();
         String key;
         Iterator<String> it = hm.keySet().iterator();
         while(it.hasNext()) {
             key = it.next();
             tempMap.put(key, hm.get(key));
-        }*/
-        this.testMap=hm;
+        }
+        testMap=tempMap;
+        //this.testMap = hm;
     }
     /**
      * @return the id

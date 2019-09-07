@@ -1,6 +1,5 @@
 package com.dc.multithreading;
 
-import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.concurrent.CopyOnWriteArrayList;
 
