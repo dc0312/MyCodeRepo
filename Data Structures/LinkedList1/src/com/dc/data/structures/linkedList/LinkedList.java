@@ -127,4 +127,31 @@ public class LinkedList {
         }
         return false;
     }
+
+    public void deleteNode(Link link){
+        Link temp = link.next;
+        link.data = temp.data;
+        link.next = temp.next;
+    }
+
+    public void reverseLinkedList(){
+        if(null == first){
+            return ;
+        }
+
+        Link previous = null;
+        Link current = first;
+        Link nextLink ;
+
+        while(null != current){
+            nextLink = current.next;
+            current.next = previous;
+            previous = current;
+            current = nextLink;
+
+        }
+        first = previous;
+
+
+    }
 }
