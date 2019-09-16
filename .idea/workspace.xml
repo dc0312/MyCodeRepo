@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="035c0cd3-97c8-4c32-a53f-fc7c8436cc0a" name="Default Changelist" comment="" />
+    <list default="true" id="035c0cd3-97c8-4c32-a53f-fc7c8436cc0a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/SingleLinkedList/src/com/dc/data/structures/linkList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/SingleLinkedList/src/com/dc/data/structures/linkList/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/src/practiceThreads/ThreadJoinDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/src/practiceThreads/ThreadMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCodeRepo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCodeRepo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyCodeRepo/META-INF/MyCodeRepo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCodeRepo/META-INF/MyCodeRepo.kotlin_module" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +63,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Data Structures" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -74,11 +81,11 @@
       <recent name="Programs.src.threads.executors.terminatingExecutorsTask" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\deechaturvedi\Documents\MyCodeRepo\Data Structures" />
       <recent name="C:\Users\deechaturvedi\Documents\MyCodeRepo\Programs\com\dc\designPatterns\dp08DecoratorDesignPattern" />
       <recent name="C:\Users\deechaturvedi\Documents\MyCodeRepo\Programs\com\dc\designPatterns\dp07AdapterFactoryPattern" />
       <recent name="C:\Users\deechaturvedi\Documents\MyCodeRepo\Programs\com\dc\designPatterns\dp06AbstractFactoryPattern" />
       <recent name="C:\Users\deechaturvedi\Documents\MyCodeRepo\Programs\com\dc\designPatterns\04simplePattern" />
-      <recent name="C:\Users\deechaturvedi\Documents\MyCodeRepo\Programs\com\dc\designPatterns\builderPattern2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -93,7 +100,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DeadLock">
+  <component name="RunManager" selected="Application.FailFast">
     <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programs.src.C" />
       <module name="MyCodeRepo" />
@@ -120,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.src.hackerRank.FindMissingNumber" />
+    <configuration name="FailFast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dc.multithreading.FailFast" />
       <module name="MyCodeRepo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programs.src.hackerRank.*" />
+          <option name="PATTERN" value="com.dc.multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.src.Main" />
+    <configuration name="FindMissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.src.hackerRank.FindMissingNumber" />
       <module name="MyCodeRepo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programs.src.*" />
+          <option name="PATTERN" value="Programs.src.hackerRank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FailFast" />
         <item itemvalue="Application.DeadLock" />
         <item itemvalue="Application.FindMissingNumber" />
         <item itemvalue="Application.MergeSortEasy" />
         <item itemvalue="Application.C" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +208,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -239,6 +248,11 @@
           <url>file://$PROJECT_DIR$/Programs/src/practiceThreads/ThreadMain.java</url>
           <line>34</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Programs/src/threads/ResolveDeadLockTest.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

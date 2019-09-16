@@ -7,7 +7,7 @@ import java.io.ObjectOutputStream;
 public class Writer {
 	
 	public static void main(String[] args) {
-		Employee employee = new Employee();
+		Employee1 employee = new Employee1();
 		employee.setGender("Male");
 		employee.setName("Deepak");
 		employee.setPassword("12345");

@@ -1,0 +1,114 @@
+1. How to sort by two fields in Java?
+Ans :
+
+private static void order(List<Person> persons) {
+
+    Collections.sort(persons, new Comparator() {
+
+        public int compare(Object o1, Object o2) {
+
+            String x1 = ((Person) o1).getName();
+            String x2 = ((Person) o2).getName();
+            int sComp = x1.compareTo(x2);
+
+            if (sComp != 0) {
+               return sComp;
+            }
+
+            Integer x1 = ((Person) o1).getAge();
+            Integer x2 = ((Person) o2).getAge();
+            return x1.compareTo(x2);
+    }});
+}
+
+In Java 8:
+Comparator.comparing(Document::getPDate).reversed()
+          .thenComparing(Comparator.comparing(Document::getSubject).reversed());
+************************************************************************************************************************
+2. Types of Operation in Stream:
+Operations – Intermediate and terminal are two types of operations in a stream.
+Intermediate operation returns a new stream and terminal operation consumes a stream
+
+Stateless Intermediate Operations
+---------------------------------
+For example,
+map()
+filter()
+unsorted()
+peek()
+are stateless intermediate operations. Every individual element can be processed without the need for
+sharing information between them for processing.
+
+Stateful Intermediate Operations
+--------------------------------
+For example,
+
+sorted()
+distinct()
+limit()
+etc are known as stateful operations. Because elements cannot be processed individually,
+ they need to be compared with one another thus requiring information to be retained.
+
+ Terminal Operations
+ --------------------
+ Terminal operations consumes the stream pipeline. It does not produce another stream like intermediate operations.
+ It produces a result or a side-effect.
+
+ Following are some of the available terminal operations in the API,
+ sum()
+ min()
+ max()
+ count()
+ average()
+ collect()
+ reduce()
+
+ *****************************************************************************************************************************
+ 3. Difference between FetchType LAZY and EAGER in Java Persistence API?
+ LAZY = fetch when needed
+ EAGER = fetch immediately
+EAGER loading of collections means that they are fetched fully at the time their parent is fetched.
+ So if you have Course and it has List<Student>, all the students are fetched from the database at the time the Course is fetched.
+
+LAZY on the other hand means that the contents of the List are fetched only when you try to access them.
+For example, by calling course.getStudents().iterator().
+Calling any access method on the List will initiate a call to the database to retrieve the elements.
+This is implemented by creating a Proxy around the List (or Set).
+So for your lazy collections, the concrete types are not ArrayList and HashSet,
+but PersistentSet and PersistentList (or PersistentBag)
+*****************************************************************************************************************************
+4. Cascade in hubernate
+http://javainsimpleway.com/cascades-in-hibernate-overview/
+*****************************************************************************************************************************
+5.Object States in Hibernate – Transient,Persistent and Detached
+http://javawebtutor.com/articles/hibernate/hibernate-object-states.php
+*****************************************************************************************************************************
+6.hibernate.dialect property makes Hibernate to generate the appropriate SQL statements for the chosen database.
+*****************************************************************************************************************************
+7. Why is char[] preferred over String for passwords?
+Strings are immutable. That means once you've created the String, if another process can dump memory,
+there's no way (aside from reflection) you can get rid of the data before garbage collection kicks in.
+
+With an array, you can explicitly wipe the data after you're done with it. You can overwrite the array with anything you like,
+and the password won't be present anywhere in the system, even before garbage collection.
+While other suggestions here seem valid, there is one other good reason.
+With plain String you have much higher chances of accidentally printing the password to logs, monitors or some other
+insecure place. char[] is less vulnerable.
+
+Consider this:
+
+public static void main(String[] args) {
+    Object pw = "Password";
+    System.out.println("String: " + pw);
+
+    pw = "Password".toCharArray();
+    System.out.println("Array: " + pw);
+}
+Prints:
+
+String: Password
+Array: [C@5829428e
+*****************************************************************************************************************************
+8. How substring works?
+*****************************************************************************************************************************
+*****************************************************************************************************************************

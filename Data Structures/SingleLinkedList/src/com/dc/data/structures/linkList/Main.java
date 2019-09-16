@@ -1,10 +1,10 @@
 package com.dc.data.structures.linkList;
 
 class Link{
-    public Employee employee;
+    public com.dc.data.structures.linkList.Employee employee;
     public Link next;
 
-    public Link(Employee employee) {
+    public Link(com.dc.data.structures.linkList.Employee employee) {
         this.employee = employee;
     }
 

@@ -33,9 +33,9 @@ public class MainClass
             Enums.ONE.commonMethod();
  
             Enums.TWO.commonMethod();
- 
+
            // Enums.ONE.methodOfONE();     //Complie time error, methodOfONE() not visible outisde the ONE's body
- 
+
            // Enums.TWO.methodOfTWO();     //Complie time error, methodOfTWO() not visible outisde the TWO's body
         }
 }

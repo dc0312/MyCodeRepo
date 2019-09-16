@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf656bac-992a-4420-b194-8039ebfcf33e" name="Default Changelist" comment="" />
+    <list default="true" id="cf656bac-992a-4420-b194-8039ebfcf33e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Multithreading/src/com/dc/multithreading/ConcurrentModificationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/.idea/IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/BubbleSort/BubbleSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/ChainedHashtable/ChainedHashtable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/DoubleLinkedList/DoubleLinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/InsertionSort/InsertionSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/InterviewPrograms/Stack/.idea/Stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/InterviewPrograms/Stack/Impelment Stack Using Linked List/Implement Stack Using LinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/InterviewPrograms/Stack/Sort Stack/Sort Stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/InterviewPrograms/Stack/Stack Using Queues/Stack Using Queues.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/InterviewPrograms/Stack/Tree/Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/InterviewPrograms/Tree/Check IF BST/Check IF BST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/InterviewPrograms/Tree/Check If Tree Is Balanced Or Not/Check If Tree Is Balanced Or Not.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/InterviewPrograms/Tree/Iterative InOrder Traversal/Iterative InOrder Traversal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/InterviewPrograms/Tree/Longest Consecutive Branch/Longest Consecutive Branch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/LinkedList1/LinkedList1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/LinkedList2/LinkedList2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/MergeSort/MergeSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/MergeSortDescending/MergeSortDescending.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/Queue/Queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/QuickSort/QuickSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/SelectionSort/SelectionSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/ShellSort/ShellSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/SimpleHashtable/SimpleHashtable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/SingleLinkedList/SingleLinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/Stack/Stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Data Structures/Tree/Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/Programs/Programs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SingleLinkedList/src/com/dc/data/structures/linkList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SingleLinkedList/src/com/dc/data/structures/linkList/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Multithreading/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Multithreading/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/MyCodeRepo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/MyCodeRepo/META-INF/MyCodeRepo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/MyCodeRepo/META-INF/MyCodeRepo.kotlin_module" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +53,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1PyLzDnZipvmsp8vyqVxUATdSAt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/MyCodeRepo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -60,5 +102,16 @@
       <updated>1566841649863</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

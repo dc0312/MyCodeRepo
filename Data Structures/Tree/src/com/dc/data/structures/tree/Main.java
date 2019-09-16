@@ -35,7 +35,7 @@ public class Main {
         System.out.println("Height : "+tree.getHeightDiameter().first);
         System.out.println("Diameter : "+tree.getHeightDiameter().second);*/
 
-        //tree.delete(27);
+        tree.delete(27);
         System.out.println();
         //tree.inOrder(tree.root);
         System.out.println();

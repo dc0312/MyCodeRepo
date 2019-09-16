@@ -3,18 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="035c0cd3-97c8-4c32-a53f-fc7c8436cc0a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyCodeRepo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyCodeRepo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programs/src/programs/BalanceLog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programs/src/programs/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/src/programs/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyCodeRepo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCodeRepo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyCodeRepo/Programs/BalanceLog$Exp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyCodeRepo/Programs/BalanceLog$Line.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyCodeRepo/Programs/BalanceLog$Log.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyCodeRepo/Programs/BalanceLog$Power.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyCodeRepo/Programs/BalanceLog$Sine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyCodeRepo/Programs/BalanceLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/src/practiceThreads/ThreadJoinDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/src/practiceThreads/ThreadMain.java" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,67 +15,12 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/Base64EncodedMessage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/HtmlEncodedMessage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
-              <folding>
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
-                <element signature="e#378#379#0" expanded="true" />
-                <element signature="e#451#452#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/Message.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/TextMessage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -96,6 +32,7 @@
       <find>ValueReturningTaskA</find>
       <find>LoopTaskE</find>
       <find>ValueReturningTaskB</find>
+      <find>Dead</find>
     </findStrings>
     <replaceStrings>
       <replace>SecondTask</replace>
@@ -108,122 +45,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/04simplePattern/Client.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/04simplePattern/Post.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/04simplePattern/PostFactory.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/04simplePattern/ProductPost.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp04simplePattern/BlogPost.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp04simplePattern/Post.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp04simplePattern/NewsPost.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp04simplePattern/ProductPost.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp04simplePattern/Client.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp04simplePattern/PostFactory.java" />
-        <option value="$PROJECT_DIR$/Programs/src/cloning/example/StateMainCopyConstructor.java" />
-        <option value="$PROJECT_DIR$/Programs/src/practice2/Animal.java" />
-        <option value="$PROJECT_DIR$/Programs/src/practice2/AbstractAnimal.java" />
-        <option value="$PROJECT_DIR$/Programs/src/practice2/Animal1.java" />
-        <option value="$PROJECT_DIR$/Programs/src/practice2/Cat.java" />
-        <option value="$PROJECT_DIR$/Programs/src/practice2/Main.java" />
-        <option value="$PROJECT_DIR$/Programs/src/practice2/Dog.java" />
-        <option value="$PROJECT_DIR$/Programs/src/programs/Test.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/BankAccount1.java" />
-        <option value="$PROJECT_DIR$/Programs/src/threads/BankThread.java" />
-        <option value="$PROJECT_DIR$/Programs/src/RegExMain.java" />
-        <option value="$PROJECT_DIR$/Programs/src/Main.java" />
-        <option value="$PROJECT_DIR$/Programs/src/programs/SwapStringNotSpecial.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05FactoryPattern/Message.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05FactoryPattern/JSONMessage.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05FactoryPattern/TextMessage.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05FactoryPattern/MessageCreator.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05FactoryPattern/JSONMessageCreator.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05FactoryPattern/TextMessageCreator.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05FactoryPattern/Client.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/Instance.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/gcp/GoogleCloudStorage.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/gcp/GoogleComputeEngineInstance.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/aws/Ec2Instance.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/aws/S3Storage.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/ResourceFactory.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/aws/AwsResourceFactory.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/gcp/GoogleResourceFactory.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/Client.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05SingletonPattern/EagerRegistry.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05SingletonPattern/LazyRegistryDCL.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05SingletonPattern/LazyRegistryInitializationHolder.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05SingletonPattern/SingletonEnum.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05SingletonPattern/Client.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/BusinessCardDesigner.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/EmployeeClassAdapter.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/EmployeeObjectAdapter.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/Main.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/Base64EncodedMessage.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/HtmlEncodedMessage.java" />
-        <option value="$PROJECT_DIR$/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/Client.java" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="15" />
     <option name="y" value="30" />
     <option name="width" value="1890" />
     <option name="height" value="960" />
   </component>
+  <component name="ProjectId" id="1Q8Ox6VnS2USaTtBflTNCjz3dRk" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="MyCodeRepo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCodeRepo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCodeRepo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCodeRepo" type="462c0819:PsiDirectoryNode" />
-              <item name="Programs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCodeRepo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCodeRepo" type="462c0819:PsiDirectoryNode" />
-              <item name="Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="designPatterns" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCodeRepo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCodeRepo" type="462c0819:PsiDirectoryNode" />
-              <item name="Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="designPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="dp08DecoratorDesignPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCodeRepo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCodeRepo" type="462c0819:PsiDirectoryNode" />
-              <item name="Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/pattern/decorator-begin/udemy-design-patterns-handson/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -260,13 +97,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (3)">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.com.dc.designPatterns.dp06AbstractFactoryPattern.Client" />
+  <component name="RunManager" selected="Application.FailFast">
+    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.src.C" />
       <module name="MyCodeRepo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programs.com.dc.designPatterns.dp06AbstractFactoryPattern.*" />
+          <option name="PATTERN" value="Programs.src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.com.dc.designPatterns.dp05SingletonPattern.Client" />
+    <configuration name="DeadLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.src.threads.DeadLock" />
       <module name="MyCodeRepo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programs.com.dc.designPatterns.dp05SingletonPattern.*" />
+          <option name="PATTERN" value="Programs.src.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.com.dc.designPatterns.dp08DecoratorDesignPattern.Client" />
+    <configuration name="FailFast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dc.multithreading.FailFast" />
       <module name="MyCodeRepo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programs.com.dc.designPatterns.dp08DecoratorDesignPattern.*" />
+          <option name="PATTERN" value="com.dc.multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.com.dc.designPatterns.dp05FactoryPattern.Client" />
+    <configuration name="FindMissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.src.hackerRank.FindMissingNumber" />
       <module name="MyCodeRepo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programs.com.dc.designPatterns.dp05FactoryPattern.*" />
+          <option name="PATTERN" value="Programs.src.hackerRank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programs.com.dc.designPatterns.dp07AdapterFactoryPattern.Main" />
+    <configuration name="MergeSortEasy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructures.recursion.MergeSortEasy" />
       <module name="MyCodeRepo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Programs.com.dc.designPatterns.dp07AdapterFactoryPattern.*" />
+          <option name="PATTERN" value="dataStructures.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -328,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client (3)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Client (2)" />
-        <item itemvalue="Application.Client (1)" />
-        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.FailFast" />
+        <item itemvalue="Application.DeadLock" />
+        <item itemvalue="Application.FindMissingNumber" />
+        <item itemvalue="Application.MergeSortEasy" />
+        <item itemvalue="Application.C" />
       </list>
     </recent_temporary>
   </component>
@@ -352,50 +189,29 @@
       <workItem from="1555944106575" duration="6929000" />
       <workItem from="1556020778079" duration="12616000" />
       <workItem from="1556181587512" duration="11458000" />
-      <workItem from="1556553847795" duration="14206000" />
+      <workItem from="1556553847795" duration="26644000" />
+      <workItem from="1557048526772" duration="196000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119946000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20426288" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3285968" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24939272" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
+    <option name="totallyTimeSpent" value="132580000" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -403,38 +219,37 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Programs/src/practiceThreads/ThreadMain.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Programs/src/practiceThreads/ThreadMain.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Programs/src/practiceThreads/ThreadMain.java</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Programs/src/practiceThreads/ThreadMain.java</url>
           <line>55</line>
-          <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Programs/src/practiceThreads/ThreadMain.java</url>
           <line>83</line>
-          <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Programs/src/practiceThreads/ThreadMain.java</url>
           <line>34</line>
-          <properties />
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Programs/src/threads/ResolveDeadLockTest.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -477,443 +292,6 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Programs/src/hackerRank/BigFactorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/hackerRank/CamelCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/hackerRank/CompareTriplets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/hackerRank/FindingDigit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/hackerRank/SherlockAndSquares.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/hackerRank/SherlockAndAnagrams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/hackerRank/ReducedString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/programs/SwapStringNotSpecial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding>
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/builderPatternJoshuaBloch/NutritionalFacts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-386">
-          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp04simplePattern/PostFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp04simplePattern/NewsPost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp04simplePattern/BlogPost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp04simplePattern/Post.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp04simplePattern/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05FactoryPattern/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05FactoryPattern/JSONMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-          <folding>
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05FactoryPattern/TextMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05FactoryPattern/MessageCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05FactoryPattern/JSONMessageCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05FactoryPattern/TextMessageCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05FactoryPattern/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/Storage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/gcp/GoogleCloudStorage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="50" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/gcp/GoogleComputeEngineInstance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/ResourceFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/gcp/GoogleResourceFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#509#510#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/aws/AwsResourceFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/aws/S3Storage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="41" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/Instance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/aws/Ec2Instance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#703#704#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-          <folding>
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05SingletonPattern/EagerRegistry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding>
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/singleton/SingletonClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/singleton/SingletonClass1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/singleton/SingletonClass2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/src/singleton/Singleton4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05SingletonPattern/LazyRegistryDCL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05SingletonPattern/LazyRegistryInitializationHolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-          <folding>
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05SingletonPattern/SingletonEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp05SingletonPattern/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/EmployeeObjectAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-          <folding>
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="85" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/BusinessCardDesigner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/EmployeeClassAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-          <folding>
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/Base64EncodedMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/TextMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/HtmlEncodedMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
-          <folding>
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
