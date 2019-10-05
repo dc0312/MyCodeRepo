@@ -25,7 +25,7 @@ public class TestOops4 {
 		Animal a = new Animal();
 		Dog d = new Dog();
 		Animal a1 = new Dog();
-		
+
 		test(a);
 		test(d);
 		test(a1);

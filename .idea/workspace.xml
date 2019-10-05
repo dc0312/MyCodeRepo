@@ -2,12 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="035c0cd3-97c8-4c32-a53f-fc7c8436cc0a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/src/com/dc/dynamicProgramming/CoinChanging.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/src/com/dc/dynamicProgramming/KnapSack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/src/com/dc/dynamicProgramming/LongestCommonSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/src/com/dc/dynamicProgramming/LongestCommonSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multithreading/src/com/dc/multithreading/PrintEvenOddDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multithreading/src/com/dc/multithreading/PrintEvenOddUsingBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multithreading/src/com/dc/multithreading/PrintOddEvenUsingLocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multithreading/src/com/dc/multithreading/ProducerConsumerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/com/dc/.idea/dc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programs/src/hashMapSorting/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structures/SingleLinkedList/src/com/dc/data/structures/linkList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/SingleLinkedList/src/com/dc/data/structures/linkList/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programs/src/practiceThreads/ThreadJoinDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programs/src/practiceThreads/ThreadMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyCodeRepo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCodeRepo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MyCodeRepo/META-INF/MyCodeRepo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyCodeRepo/META-INF/MyCodeRepo.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/BubbleSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/BubbleSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/ChainedHashtable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/ChainedHashtable/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/InsertionSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/InsertionSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/InterviewPrograms/Stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/InterviewPrograms/Stack/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/MergeSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/MergeSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/QuickSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/QuickSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/Stack/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Tree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structures/Tree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Tree/src/tree/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Tree/src/tree/Tree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Structures/Tree/src/tree/TreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreading/bin/com/dc/multithreading/Processor.class" beforeDir="false" afterPath="$PROJECT_DIR$/Multithreading/bin/com/dc/multithreading/Processor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreading/src/com/dc/multithreading/InterthreadCommunication2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Multithreading/src/com/dc/multithreading/InterthreadCommunication2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/bin/overLoadingOverRiddingPractice/oops2/TestOops2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/bin/overLoadingOverRiddingPractice/oops2/TestOops2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/src/dataStructures/recursion/TowerOfHanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/src/dataStructures/recursion/TowerOfHanoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programs/src/overLoadingOverRiddingPractice/oops2/TestOops2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programs/src/overLoadingOverRiddingPractice/oops2/TestOops2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +85,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Data Structures" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Programs" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />

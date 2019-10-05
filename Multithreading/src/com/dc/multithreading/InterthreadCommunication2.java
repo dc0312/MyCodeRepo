@@ -30,7 +30,7 @@ public class InterthreadCommunication2 {
     }
 }
 
-class Processor extends Thread {
+class Processor {
 
     private int value = 0;
     private final int LIMIT = 3;

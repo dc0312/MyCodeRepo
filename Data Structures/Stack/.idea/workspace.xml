@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ca68fb0-2ce1-444d-ab83-d7ab69e17aee" name="Default Changelist" comment="" />
+    <list default="true" id="3ca68fb0-2ce1-444d-ab83-d7ab69e17aee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../DynamicProgramming/src/com/dc/dynamicProgramming/CoinChanging.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DynamicProgramming/src/com/dc/dynamicProgramming/KnapSack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DynamicProgramming/src/com/dc/dynamicProgramming/LongestCommonSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DynamicProgramming/src/com/dc/dynamicProgramming/LongestCommonSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Multithreading/src/com/dc/multithreading/PrintEvenOddDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Multithreading/src/com/dc/multithreading/PrintEvenOddUsingBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Multithreading/src/com/dc/multithreading/PrintOddEvenUsingLocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Multithreading/src/com/dc/multithreading/ProducerConsumerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programs/com/dc/.idea/dc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Programs/src/hashMapSorting/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BubbleSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BubbleSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChainedHashtable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChainedHashtable/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPrograms/Stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPrograms/Stack/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuickSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../QuickSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tree/src/tree/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tree/src/tree/Tree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tree/src/tree/TreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Multithreading/bin/com/dc/multithreading/Processor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Multithreading/bin/com/dc/multithreading/Processor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Multithreading/src/com/dc/multithreading/InterthreadCommunication2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Multithreading/src/com/dc/multithreading/InterthreadCommunication2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programs/bin/overLoadingOverRiddingPractice/oops2/TestOops2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programs/bin/overLoadingOverRiddingPractice/oops2/TestOops2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programs/src/dataStructures/recursion/TowerOfHanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programs/src/dataStructures/recursion/TowerOfHanoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Programs/src/overLoadingOverRiddingPractice/oops2/TestOops2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Programs/src/overLoadingOverRiddingPractice/oops2/TestOops2.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +41,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1PXIOyPRS69hTe8fS5GQWopLBEr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Queue" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../InterviewPrograms/Stack" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -60,6 +90,17 @@
       <updated>1566013985524</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

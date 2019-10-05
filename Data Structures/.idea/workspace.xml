@@ -2,147 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a0bbb10-d8a7-4150-85c1-17260dd7d7b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/InterviewPrograms/Tree/.idea/Tree.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterviewPrograms/Tree/Check IF BST/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterviewPrograms/Tree/Check IF BST/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterviewPrograms/Tree/Check IF BST/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/src/tree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/src/tree/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/src/tree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Multithreading/src/com/dc/multithreading/ConcurrentModificationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programs/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/Readme.tx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp05FactoryPattern2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp05FactoryPattern2/CarCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp05FactoryPattern2/ClientCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp05FactoryPattern2/LuxuryCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp05FactoryPattern2/LuxuryCarCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp05FactoryPattern2/SmallCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp05FactoryPattern2/SmallCarCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Programs/src/overLoadingOverRiddingPractice/oops10/Overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/.idea/IdeaProjects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/BubbleSort/BubbleSort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/ChainedHashtable/ChainedHashtable.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/DoubleLinkedList/DoubleLinkedList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/InsertionSort/InsertionSort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/InterviewPrograms/Stack/.idea/Stack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/InterviewPrograms/Stack/Impelment Stack Using Linked List/Implement Stack Using LinkedList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/InterviewPrograms/Stack/Sort Stack/Sort Stack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/InterviewPrograms/Stack/Stack Using Queues/Stack Using Queues.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/InterviewPrograms/Stack/Tree/Tree.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/InterviewPrograms/Tree/Check IF BST/Check IF BST.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/InterviewPrograms/Tree/Check If Tree Is Balanced Or Not/Check If Tree Is Balanced Or Not.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/InterviewPrograms/Tree/Iterative InOrder Traversal/Iterative InOrder Traversal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/InterviewPrograms/Tree/Longest Consecutive Branch/Longest Consecutive Branch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/LinkedList1/LinkedList1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/LinkedList2/LinkedList2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/MergeSort/MergeSort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/MergeSortDescending/MergeSortDescending.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/Queue/Queue.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/QuickSort/QuickSort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/SelectionSort/SelectionSort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/ShellSort/ShellSort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/SimpleHashtable/SimpleHashtable.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/SingleLinkedList/SingleLinkedList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/Stack/Stack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Data Structures/Tree/Tree.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/Programs/Programs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DynamicProgramming/src/com/dc/dynamicProgramming/CoinChanging.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DynamicProgramming/src/com/dc/dynamicProgramming/KnapSack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DynamicProgramming/src/com/dc/dynamicProgramming/LongestCommonSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DynamicProgramming/src/com/dc/dynamicProgramming/LongestCommonSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/src/com/dc/multithreading/PrintEvenOddDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/src/com/dc/multithreading/PrintEvenOddUsingBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/src/com/dc/multithreading/PrintOddEvenUsingLocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/src/com/dc/multithreading/ProducerConsumerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programs/com/dc/.idea/dc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programs/src/dataStructures/arrays/KSumPair/KSumPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programs/src/dataStructures/arrays/KdiffPair/KDiffPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programs/src/dataStructures/arrays/anagrams/Anagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programs/src/dataStructures/arrays/bubbleSort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programs/src/dataStructures/arrays/findSubStringInAString/FindSubStringInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programs/src/dataStructures/arrays/firstNonRepeatingCharacter/FirstNonRepeatingCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programs/src/dataStructures/arrays/insertionSort/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programs/src/dataStructures/arrays/intersectionOfTwoArray/INtersectionOfTwoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programs/src/dataStructures/arrays/maxdif/MaxDiff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programs/src/dataStructures/arrays/mergeSort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programs/src/dataStructures/arrays/mergeSortArrays/MegreSortArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programs/src/dataStructures/arrays/printCommonChars/PrintCommonChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programs/src/dataStructures/arrays/quickSort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programs/src/dataStructures/arrays/removeDuplicates/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programs/src/dataStructures/arrays/reverseString/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programs/src/dataStructures/arrays/reverseString/ReverseStringWithoutSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programs/src/dataStructures/arrays/rotatedArray/RoatatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programs/src/dataStructures/arrays/selectionSort/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programs/src/dataStructures/arrays/squareRoot/SquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Programs/src/hashMapSorting/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InterviewPrograms/Tree/Check IF BST/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewPrograms/Tree/Check IF BST/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InterviewPrograms/Tree/Check If Tree Is Balanced Or Not/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewPrograms/Tree/Check If Tree Is Balanced Or Not/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InterviewPrograms/Tree/Iterative InOrder Traversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewPrograms/Tree/Iterative InOrder Traversal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InterviewPrograms/Tree/Longest Consecutive Branch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewPrograms/Tree/Longest Consecutive Branch/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedList2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SingleLinkedList/src/com/dc/data/structures/linkList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/SingleLinkedList/src/com/dc/data/structures/linkList/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BubbleSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BubbleSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChainedHashtable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChainedHashtable/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsertionSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/InsertionSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewPrograms/Stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewPrograms/Stack/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MergeSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuickSort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/QuickSort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/out/production/Tree/com/dc/data/structures/tree/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/out/production/Tree/com/dc/data/structures/tree/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/src/com/dc/data/structures/tree/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/src/com/dc/data/structures/tree/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Multithreading/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Multithreading/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/bin/Area.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/Area.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/bin/GFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/GFG.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/bin/NonRepeatingDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/NonRepeatingDigit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/bin/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/RemoveDuplicates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/bin/RemoveDuplicates2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/RemoveDuplicates2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/AngryProfessor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/BalancedParenthesis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/BeautifulDays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/CountingValleys.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/DayOfProgrammer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/FindMissingNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/PassingTheHurdle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/PdfViewer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/PickingNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/SaveThePrisioner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/bin/hackerRank/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/bin/threads/Display.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/threads/Display.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/bin/threads/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/threads/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/bin/threads/ReentrantLockMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/threads/ReentrantLockMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/Readme.tx" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/ImportantQuestions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/builderPattern/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/builderPattern/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/builderPattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/builderPattern/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/builderPattern/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/builderPattern/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/builderPattern/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/builderPattern/UserDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/builderPattern/UserDTOBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/builderPattern/UserDTOBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/builderPattern/UserWebDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/builderPattern/UserWebDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/builderPattern/UserWebDTOBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/builderPattern/UserWebDTOBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/builderPattern2/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/builderPattern2/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/builderPattern2/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/builderPattern2/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/builderPattern2/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/builderPattern2/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/builderPattern2/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/builderPattern2/UserDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/builderPatternJoshuaBloch/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/builderPatternJoshuaBloch/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/builderPatternJoshuaBloch/NutritionalFacts.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/builderPatternJoshuaBloch/NutritionalFacts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp04simplePattern/BlogPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp04simplePattern/BlogPost.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp04simplePattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp04simplePattern/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp04simplePattern/NewsPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp04simplePattern/NewsPost.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp04simplePattern/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp04simplePattern/Post.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp04simplePattern/PostFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp04simplePattern/PostFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp04simplePattern/ProductPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp04simplePattern/ProductPost.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp05FactoryPattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp05FactoryPattern/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp05FactoryPattern/JSONMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp05FactoryPattern/JSONMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp05FactoryPattern/JSONMessageCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp05FactoryPattern/JSONMessageCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp05FactoryPattern/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp05FactoryPattern/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp05FactoryPattern/MessageCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp05FactoryPattern/MessageCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp05FactoryPattern/TextMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp05FactoryPattern/TextMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp05FactoryPattern/TextMessageCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp05FactoryPattern/TextMessageCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp05SingletonPattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp05SingletonPattern/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp05SingletonPattern/EagerRegistry.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp05SingletonPattern/EagerRegistry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp05SingletonPattern/LazyRegistryDCL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp05SingletonPattern/LazyRegistryDCL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp05SingletonPattern/LazyRegistryInitializationHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp05SingletonPattern/LazyRegistryInitializationHolder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp05SingletonPattern/SingletonEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp05SingletonPattern/SingletonEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp06AbstractFactoryPattern/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/Instance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp06AbstractFactoryPattern/Instance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/ResourceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp06AbstractFactoryPattern/ResourceFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/Storage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp06AbstractFactoryPattern/Storage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/aws/AwsResourceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp06AbstractFactoryPattern/aws/AwsResourceFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/aws/Ec2Instance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp06AbstractFactoryPattern/aws/Ec2Instance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/aws/S3Storage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp06AbstractFactoryPattern/aws/S3Storage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/gcp/GoogleCloudStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp06AbstractFactoryPattern/gcp/GoogleCloudStorage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/gcp/GoogleComputeEngineInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp06AbstractFactoryPattern/gcp/GoogleComputeEngineInstance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp06AbstractFactoryPattern/gcp/GoogleResourceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp06AbstractFactoryPattern/gcp/GoogleResourceFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/BusinessCardDesigner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp07AdapterFactoryPattern/BusinessCardDesigner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp07AdapterFactoryPattern/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp07AdapterFactoryPattern/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/EmployeeClassAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp07AdapterFactoryPattern/EmployeeClassAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/EmployeeObjectAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp07AdapterFactoryPattern/EmployeeObjectAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp07AdapterFactoryPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp07AdapterFactoryPattern/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/Base64EncodedMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp08DecoratorDesignPattern/Base64EncodedMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp08DecoratorDesignPattern/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/HtmlEncodedMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp08DecoratorDesignPattern/HtmlEncodedMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp08DecoratorDesignPattern/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/TextMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp08DecoratorDesignPattern/TextMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/lib/commons-lang3-3.7.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp08DecoratorDesignPattern/lib/commons-lang3-3.7.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/com/dc/designPatterns/dp08DecoratorDesignPattern/lib/commons-text-1.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/designPatterns/dp08DecoratorDesignPattern/lib/commons-text-1.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/src/serialization/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/serialization/Employee1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/src/serialization/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/serialization/Reader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Programs/src/serialization/Writer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/serialization/Writer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/MyCodeRepo/META-INF/MyCodeRepo.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/MyCodeRepo/META-INF/MyCodeRepo.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/src/tree/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/src/tree/Tree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/src/tree/TreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multithreading/bin/com/dc/multithreading/Processor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Multithreading/bin/com/dc/multithreading/Processor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multithreading/src/com/dc/multithreading/InterthreadCommunication2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Multithreading/src/com/dc/multithreading/InterthreadCommunication2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/bin/overLoadingOverRiddingPractice/oops2/TestOops2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/bin/overLoadingOverRiddingPractice/oops2/TestOops2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Programs/src/overLoadingOverRiddingPractice/oops2/TestOops2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Programs/src/overLoadingOverRiddingPractice/oops2/TestOops2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -156,7 +61,7 @@
   <component name="ProjectId" id="1Q3XQ741h3yMMVRuTwx39JJ4J2N" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Multithreading" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BubbleSort" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />

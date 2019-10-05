@@ -111,4 +111,36 @@ Array: [C@5829428e
 *****************************************************************************************************************************
 8. How substring works?
 *****************************************************************************************************************************
-*****************************************************************************************************************************
+9.final double d = 1 / 2;
+
+  System.out.println(d);
+  prints 0. Why? How do you make this code print 0.5 instead?
+  -> integer literals on both sides of the operator: 1 and 2.
+   As a consequence, an integer division will be performed, and the result of 1 divided by 2 in an integer division is 0.
+   final double d = 1 / 2.0; --> 0.5
+   final double d = 1.0 / 2; --> 0.5
+  *****************************************************************************************************************************
+  10. final List<Integer> list = new ArrayList<>();
+
+      list.add(1);
+      list.add(2);
+      list.add(3);
+
+      list.remove(2);
+      What will be the contents of the list after this operation and why?
+--->
+      The contents will be:
+
+      [ 1, 2 ]
+      The reason is that there are two removal operations on a List:
+
+      remove(int index)
+      remove(Object obj)
+      The JVM will always select the most specific overload of a method; and here we pass an int as an argument, the code therefore removes the element at index 2.
+
+      To remove the _element_ 2 from the list, the following needs to be written:
+
+      list.remove(Integer.valueOf(2));
+  *****************************************************************************************************************************
+
+  *****************************************************************************************************************************
