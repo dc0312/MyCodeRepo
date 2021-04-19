@@ -25,10 +25,28 @@ public class TestOops4 {
 		Animal a = new Animal();
 		Dog d = new Dog();
 		Animal a1 = new Dog();
-
+		
 		test(a);
 		test(d);
 		test(a1);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		// During overloading the method resolution is always taken up by compiler based on reference type.
+		// In overloading runtime will not come into picture.
 		
 	}
 
