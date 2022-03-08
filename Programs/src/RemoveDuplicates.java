@@ -12,7 +12,7 @@ public class RemoveDuplicates {
         while(!stackOfChars.isEmpty()){
             tempStackOfChars.push(stackOfChars.pop());
             if(!tempStackOfChars.isEmpty() && 
-               !stackOfChars.isEmpty() && 
+               !stackOfChars.isEmpty() &&
                stackOfChars.peek()==tempStackOfChars.peek()){
                 numberOfRepetitions++;
             }else{
